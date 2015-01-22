@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1418307870 source:c:\users\kitoquindt\desktop\jose\learning\c++\drawingwithascii\tswindow.cpp
+	"TSwindow.h"
+
+1418307989 c:\users\kitoquindt\desktop\jose\learning\c++\drawingwithascii\tswindow.h
+	<windows.h>
+
+1418838479 source:c:\users\kitoquindt\desktop\jose\learning\c++\drawingwithascii\main.cpp
+	"TSWindow.h"
+	"TSApp.h"
+	"TSDraw.h"
+
+1418838647 c:\users\kitoquindt\desktop\jose\learning\c++\drawingwithascii\tsdraw.h
+	<conio2.h>
+	<stdio.h>
+	<iostream>
+
+1418833822 source:c:\users\kitoquindt\desktop\jose\learning\c++\drawingwithascii\tsdraw.cpp
+	"TSDraw.h"
+
+1418838437 c:\users\kitoquindt\desktop\jose\learning\c++\drawingwithascii\tsgui.h
+	<conio2.h>
+	<stdio.h>
+	<iostream>
+	<fstream>
+	"TSDraw.h"
+
+1418838724 source:c:\users\kitoquindt\desktop\jose\learning\c++\drawingwithascii\tsgui.cpp
+	"TSGUI.h"
+
+1418686770 c:\users\kitoquindt\desktop\jose\learning\c++\drawingwithascii\tsapp.h
+	<conio2.h>
+	<stdio.h>
+	<iostream>
+	"TSGUI.h"
+
+1418690184 source:c:\users\kitoquindt\desktop\jose\learning\c++\drawingwithascii\tsapp.cpp
+	"TSDraw.h"
+	"TSGUI.h"
+	"TSApp.h"
+
+1418690198 source:f:\proyectos\learning\c++\drawingwithascii\main.cpp
+	"TSWindow.h"
+	"TSApp.h"
+	"TSDraw.h"
+
+1418307989 f:\proyectos\learning\c++\drawingwithascii\tswindow.h
+	<windows.h>
+
+1418686770 f:\proyectos\learning\c++\drawingwithascii\tsapp.h
+	<conio2.h>
+	<stdio.h>
+	<iostream>
+	"TSGUI.h"
+
+1418690303 f:\proyectos\learning\c++\drawingwithascii\tsgui.h
+	<conio2.h>
+	<stdio.h>
+	<iostream>
+	<fstream>
+	"TSDraw.h"
+
+1418687429 f:\proyectos\learning\c++\drawingwithascii\tsdraw.h
+	<conio2.h>
+	<stdio.h>
+	<iostream>
+
+1418678188 source:f:\proyectos\learning\c++\drawingwithascii\tsdraw.cpp
+	"TSDraw.h"
+
+1418307870 source:f:\proyectos\learning\c++\drawingwithascii\tswindow.cpp
+	"TSwindow.h"
+
+1418690184 source:f:\proyectos\learning\c++\drawingwithascii\tsapp.cpp
+	"TSDraw.h"
+	"TSGUI.h"
+	"TSApp.h"
+
+1418690025 source:f:\proyectos\learning\c++\drawingwithascii\tsgui.cpp
+	"TSGUI.h"
+
